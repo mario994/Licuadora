@@ -1,2 +1,5 @@
 # Licuadora
-Licuadora Interactiva, que enciende y apaga.
+
+Pequeño proyecto sencillo de licuadora interactiva que enciende y apaga añ hacer click.
+
+
